@@ -1,0 +1,90 @@
+h1 {
+    color: blue;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mainContainer{
+    /* color: red; */
+    /* background-color: yellow; */
+    height: 1500px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    /* padding: 50px; */
+    /* padding: 60px 10px 100px 150px; */
+            /*top right bottom left  */
+    /* margin: 100px; */
+    /* margin: 60px 10px 100px 150px; */
+    /* border: solid 10px black; */
+
+
+
+    /* border-bottom: solid 10px black; */
+
+    /* border-top-left-radius: 100px; */
+    /* border-style: solid ;
+    border-width:10px;
+    border-color: black ; */
+    
+}
+
+
+.one{
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    background-color: orange;
+    color: brown;
+}
+
+.two{
+    visibility: hidden;
+}
+/* display:
+    inline
+    block
+    inline-block
+    none
+
+
+
+*/
+
+/* 
+    abs:
+        pixel (px):
+        inches (in):
+        centimeters (cm):    
+
+
+
+        parent height = 100px
+                child height = 10% - 10px
+
+    rel:
+        percentage (%):
+        viewPoint (vw,vh):
+        rem (rem):
+        em (em):
+
+*/
+
+
+
+/* 
+box model
+
+
+*/
+
+/* 
+.one {
+    color: red;
+}
+
+#first{
+    color: brown;
+} */
